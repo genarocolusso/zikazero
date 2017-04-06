@@ -80,6 +80,7 @@ gulp.task('styles', () => {
     'ios >= 7',
     'android >= 4.4',
     'bb >= 10'
+    
   ];
 
   // For best performance, don't add Sass partials to `gulp.src`
